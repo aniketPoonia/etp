@@ -301,3 +301,100 @@ nano swap
 nano swap.cpp
 g++ -g swap.cpp -o swap
 ./swap
+#!/bin/bash
+# Prompt user for the filenames
+echo "Enter the name of the first file:"
+read file1
+echo "Enter the name of the second file:"
+read file2
+# Create the first file and add some text to it
+touch $file1
+echo "This is some text in $file1." > $file1
+# Copy the contents of the first file to the second file
+cp $file1 $file2
+# Display the previously executed commands in the bash shell
+history
+To run this script, save it to a file (e.g. file_transfer.sh) and make it executable by running the command chmod +x file_transfer.sh. Then, execute the script by running the command ./file_transfer.sh and follow the prompts to enter the filenames.
+Share Prompt
+# Prompt user for the filenames
+echo "Enter the name of the first file:"
+read file1
+echo "Enter the name of the second file:"
+read file2
+# Create the first file and add some text to it
+touch $file1
+echo "This is some text in $file1." > $file1
+# Copy the contents of the first file to the second file
+cp $file1 $file2
+# Display the previously executed commands in the bash shell
+historyljnlub
+filetransfer.sh
+nano filetransfer.sh
+./filetransfer.sh
+chmod +x filetransfer.sh
+./filetransfer.sh
+nano etp.html
+git init
+git commit -m "Initial commit"
+git config --global user.email "aniketpooniajat@gmail.com"
+git config --global user.name "aniketpoonia"
+omit --global
+git commit -m "Initial commit"
+git config --global user.email "aniketpooniajat@gmail.com"
+git config --global user.name "aniketpoonia"
+git init
+git config --global user.name "aniketpoonia"
+git config --global user.email "aniketpooniajat@gmail.com"
+git add etp.html
+git add.
+git add .
+git status
+nano etp.html
+git commit -m "Initial commit"
+git status
+git add<etp.html>
+git -u origin master
+git add.
+git add
+git add  .
+git commit -m'first addition'
+git log --online
+git push -u origin master
+git push -u
+git push<etp.html>
+nano kiki.sh
+./kiki.sh
+chmod +x kiki.sh
+./kiki.sh
+nano kiki.sh
+nano handle.sh
+chmod +x handle.sh
+./handle.sh
+nano multi.sh
+chmod +x multie.sh
+chmod +x multi.sh
+./multi.sh
+5 6
+chmod +x multi.sh
+./multi.sh
+./multi.sh 5 6
+chmod +x kiki.sh
+./kiki.sh 6 5
+sudo apt-get install gdb
+gdb
+git add
+git add  .
+git status
+git --remote add origin https://github.com/aniketPoonia/etp.git
+git push-u origin master
+git push -u origin master
+git config --global --edit
+git push
+git config --global --edit
+git push -u origin master
+git --remote add origin https://github.com/aniketPoonia/etp.git
+git config --global --edit
+git status
+git config --global --edit
+git config --edit --global
+nano kiki.html
